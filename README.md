@@ -21,7 +21,7 @@ cd snomi-clips-ko
 git init
 git add README.md clip-hosts-ko.json
 git commit -m "init Korean clip staging repo"
-gh repo create n1lfy/snomi-clips-ko --public --source=. --remote=origin --push
+gh repo create Luca-bot-creator/snomi-clips-ko --public --source=. --remote=origin --push
 ```
 
 ## Upload clips (after bundling)
@@ -49,7 +49,7 @@ git add .gitattributes
 ## Verify a clip URL
 
 ```
-https://raw.githubusercontent.com/n1lfy/snomi-clips-ko/main/ko_clip_0.mp4
+https://raw.githubusercontent.com/Luca-bot-creator/snomi-clips-ko/main/ko_clip_0.mp4
 ```
 
 ## App integration
